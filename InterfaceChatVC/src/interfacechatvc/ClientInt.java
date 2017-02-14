@@ -3,14 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package serverchatvc;
-
-import java.rmi.server.UnicastRemoteObject;
+package interfacechatvc;
 
 /**
  *
  * @author fatma
  */
-public class serverImp {
-   
+public class ClientInt {
+    
 }
