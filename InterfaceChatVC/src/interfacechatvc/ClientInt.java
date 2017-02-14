@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package serverchatvc;
+package interfacechatvc;
 
 /**
  *
  * @author fatma
  */
-public class serverImp {
-   
+public class ClientInt {
+    
 }

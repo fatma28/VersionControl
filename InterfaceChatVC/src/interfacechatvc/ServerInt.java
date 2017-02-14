@@ -9,8 +9,8 @@ package interfacechatvc;
  *
  * @author fatma
  */
-public abstract class ServerInt {
-    public abstract void register();
-    public abstract void tellOther();
-    public abstract void unRegister();
+public interface ServerInt {
+    public abstract void register(ClientInt clientInt);
+    public abstract void tellOther(ClientInt clientInt);
+    public abstract void unRegister(ClientInt clientInt);
 }
