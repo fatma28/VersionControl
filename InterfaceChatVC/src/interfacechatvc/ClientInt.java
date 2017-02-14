@@ -10,5 +10,10 @@ package interfacechatvc;
  * @author fatma
  */
 public class ClientInt {
-    
+    	//start fatma
+
+	//end fatma
+	//start masoud
+	
+	//end masoud
 }
