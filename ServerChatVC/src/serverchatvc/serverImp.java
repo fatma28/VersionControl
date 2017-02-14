@@ -5,6 +5,8 @@
  */
 package serverchatvc;
 
+import java.rmi.server.UnicastRemoteObject;
+
 /**
  *
  * @author fatma
